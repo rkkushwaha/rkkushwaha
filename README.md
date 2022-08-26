@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkkushwaha
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Trending Framework of front-end development
-- 💞️ I’m looking to collaborate on MERN Stack Development
+- 💞️ I’m looking to collaborate on ROR Projects & MERN Stack Development
 - 📫 How to reach me kr93554.rk@gmail.com
 
 <!---
